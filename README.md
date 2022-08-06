@@ -1,3 +1,3 @@
 # recriando-instagram
- Projeto Flexbox - Recriando o Instagram.
+ Projeto Flexbox - Recriando a página inicial do Instagram.
  Aulas por Gabriela Pinheiro, @SpruceGabriela
